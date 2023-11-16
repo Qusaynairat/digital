@@ -80,7 +80,7 @@ body {
   background-image: url(../img/Abstract\ Design.png);
   background-size: 83% 55%;
   background-repeat: no-repeat;
-  background-position: -7px 10px;
+  background-position: bottom;
   border: none;
   overflow: hidden;
   outline: none;
@@ -89,7 +89,7 @@ body {
   background-image: url(../img/Hero.png);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: -7px 10px;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
